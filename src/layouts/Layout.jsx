@@ -10,7 +10,7 @@ const Layout = ({children}) => {
 
             {children}
 
-          <footer className= {styles.footer}> <p>Devleoped by Sara Rahgoshy</p> </footer>  
+          <footer className= {styles.footer}> <p>Developed by Sara Rahgoshy</p> </footer>  
         </>
     );
 };
